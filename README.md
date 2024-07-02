@@ -1,7 +1,7 @@
 # Titanic - Aprendizado de máquina a partir de desastres
 
 ## Dados utilizado no estudo.
-Nesse estudo, você terá acesso a dois conjuntos de dados semelhantes que incluem informações do passageiro, como nome, idade, sexo, classe socioeconômica, etc. Um conjunto de dados é intitulado train.csve o outro é intitulado test.csv.
+Nesse estudo, você terá acesso a dois conjuntos de dados semelhantes que incluem informações do passageiro, como nome, idade, sexo, classe socioeconômica, etc. Um conjunto de dados é intitulado train.csve o outro é intitulado test.csv. Na pasta input.
 </br>
 Train.csvconterá os detalhes de um subconjunto dos passageiros a bordo (891 para ser exato) e, mais importante, revelará se eles sobreviveram ou não, também conhecido como “verdade fundamental”.
 </br>
